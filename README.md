@@ -20,5 +20,5 @@
 📂 كيفية الاستخدام (How to Use)
 
 1. استنسخ المستودع: bash
-git clone https://github.com/ghufran-desginer/hospital-database-sql.git
+git clone https://github.com/ghufran-desginer/hospital-database.git
 
